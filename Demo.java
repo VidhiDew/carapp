@@ -9,4 +9,8 @@ class Demo{
     System.out.println("a = "+a+"b = "+b);
   }
   
+  public void m1(){
+	  //logic
+  }
+  
 }
